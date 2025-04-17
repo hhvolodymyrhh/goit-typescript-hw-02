@@ -1,5 +1,4 @@
 import { FC } from 'react';
-import css from './ErrorMessage.module.css';
 import { Toaster } from "react-hot-toast";
 
 const ErrorMessage:FC = () => {
